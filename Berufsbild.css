@@ -1,0 +1,198 @@
+body{
+	 font-family:"Arial";	    
+	    }
+	    
+	    * {
+	 box-sizing:border-box;
+	 padding: 4px;
+	    
+	    }
+	    
+	  
+	    
+	    
+	    
+	    
+	    .footertext1{	    
+	
+	font-size: 10px;
+	color: grey;
+	
+	    }
+	    
+	    .Datenschutz{	    
+	
+	font-size: 10px;
+	color: grey;
+	
+	
+	
+	    }
+	    
+	     a {	    
+	  text-decoration: none;
+	  
+	    }
+	    
+	    
+	    
+	     ul, li {	    
+	  list-style:none; 
+	 
+	  
+	    }
+	    
+	    }
+	    
+/*ab hier Navigationseinstellungen*/
+
+
+
+	    a:hover {
+ background-color:#8080ff;
+ border-color:#8080ff;
+ color:black;
+}
+
+ a:visited {
+ 
+ color: white;
+ 
+ }
+ 
+ a:active {
+background-color: white;
+border-color: white;
+ color:black;
+} 
+
+a:link {
+
+ color:white;
+;
+} 
+/*ab hier Navigation ende*/	 
+   
+/*ab hier Handy anzeige*/	   
+	    
+	    header, article, footer {	    
+	  width:100%; 
+	    }
+	    
+	     img{	    
+	     
+	      max-width: 100%;
+	      height: auto;
+	    }
+	    
+	     .Navi{	    
+	     text-align: center;
+	     
+	    
+	    }
+	  
+	     
+	    header {
+	 
+	    background-color: #8080ff;
+	     
+	    }
+	     .logo{
+         display: flex;
+         justify-content:center;
+         align-items: center; 
+	   
+	    }
+	    
+	    
+	     article{
+	 
+	  padding: 25px;
+	    background-color:white;
+	     
+	    
+	    }
+	    
+	     footer {	    
+	     
+	    
+	 
+	  padding: 25px;
+	    background-color: #d9d9d9;
+	     
+	    
+	    }
+	    
+	 /*ab hier Tablet anzeige*/   
+	 
+	    @media only screen and (min-width: 730px){
+	
+	.indextext {	    
+	margin-top:10px;
+	font-size: 20px;
+	    }
+	
+	.Navi{
+position: absolute;
+right: 100px;
+font-size: 10px;
+} 
+	
+	 header {
+	    padding: 65px;
+	     
+
+	     }
+
+
+	     li{
+	        display: inline;
+	       float: left;
+	    }
+	    .logo{
+	    position: absolute;
+	    top: 30px;
+	 
+	    } 
+	  
+
+	    
+	    }
+	    
+	   /*ab hier Computer anzeige*/
+	   
+	    @media only screen and (min-width: 1000px){
+	
+	
+	.indextext {	    
+	margin-top:10px;
+	font-size: 25px;
+	    }
+	
+	.Navi{
+position: absolute;
+right: 100px;
+top: 5px;
+font-size: 12px;
+} 
+	
+	 header {
+	    padding: 50px;
+	     
+
+	     }
+
+
+	     li{
+	        display: inline;
+	        float: right;
+	    }
+	    .logo{
+	   float:left;
+	
+	    } 
+	  
+
+	    
+	    }
+	   

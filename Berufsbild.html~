@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="de">
+<html>
+ <head>
+ <title>Berufsbild</title>
+ <meta charset="utf-8">
+ <meta name="description" content="Startseite">
+ <meta name="autor" content="Marius Sauter">
+ <link rel="stylesheet" href="Berufsbild.css">
+ </head>
+ 
+<body>
+<!-----Header & Navigation-------->
+ <header>
+ <div class="logo">
+ <img src="logo.png" width="370" height="45">
+ </div>
+ <div class="Navi">
+  <ul>
+  <h2>
+  <li style="margin-left: 30px;"><a href="index.html" title="Zurück zur Startseite">Wilkommen</a>  </li>
+  <li style="margin-left: 30px;" ><a href="leistungen.html" title="Zu den Leistungen">Leistungen</a>  </li>
+  <li style="margin-left: 30px;"><a href="unser team.html" title="Zum Team">Unser Team</a>  </li>
+  <li style="margin-left: 30px;"><a href="berufsbild.html" title="Infos zum Beruf">Berufsbild</a>  </li>
+  <li style="margin-left: 30px;"><a href="kontakt.html" title="Zur Kontaktaufnahme">Kontakt</a>  </li>
+  </h2>
+  </ul>
+  </div>
+  
+ 
+  
+ </header>
+ <!-------Inhaltsbereich------>
+ <main>
+  <article>
+ <div class="Inhaltsbereich">
+ <h1 style="color:#8080ff; ">Berufsbild</h1>
+ <h2 style="color:#8080ff; ">Podologe/in</h2>
+ Seit 2002 gibt es in Deutschland das Podologengesetz. Dieses schützt den Titel “Podologe” und “Medizinischer Fußpfleger” und regelt die Ausbildung<br><br>
+ Es erklärt den Podologen zum medizinischen Heilberuf. Dies ermöglicht die medizinische Behandlung der Füße nach ärztlicher Anweisung.<br><br>
+ Seit 2013 ist es in Rheinland-Pfalz sogar möglich sich zum Sektoralen Heilpraktiker auf dem Gebiet der Podologie prüfen und anerkennen zu lassen. Mit diesem Titel <br>
+ ist es möglich, selbstständig medizinische Diagnosen im Rahmen der Podologie zu erstellen und daraufhin therapeutisch zu behandeln.<br><br>
+ Die Ausbildung zum Podologen umfasst 1.000 theoretische und 2.000 praktische Stunden und wird in 2 Jahren Vollzeit oder 3 Jahren Teilzeit vermittelt. Der Abschluss ist <br>
+ mit staatlicher Anerkennung<br><br><br><br>
+ <h2 style="color:#8080ff; ">Fußpfleger/in</h2>
+ Fußpfleger haben es sich zur Aufgabe gemacht, Füße gesund zu erhalten und zu pflegen. In unserer Praxis finden interne Schulungen und eine enge Zusammenarbeit<br>
+  mit den Podologen statt.<br><br>
+Nach einem Fußbad wird Verhornung abgetragen und Nägel fachgerecht gekürzt. Dem Hautbild entsprechend, werden die Füße mit verbessernden Produkten<br>
+ eingecremt und der Kunde über eine optimierte Pflege zu Hause beraten.<br><br><br><br>
+ <h2 style="color:#8080ff; ">Kosmetiker/in</h2>
+ Das Gebiet der Kosmetikerin ist sehr vielseitig. Ihr Ziel ist es, die Haut des Kunden zu verbessern und das Wohlempfinden zu steigern.
+
+ </div>
+ 
+ </article>
+ </main>
+<! ---------Footerbereich--------->
+ <footer>
+<div class="footertext1">
+Weinstraße.73<br>
+67434 Neustadt a.d.W.<br>
++49 6321 929877<br>
+praxis@podologie-prinz.de<br>
+</div>
+
+<div class="Datenschutz">
+<a href="Datenschutz.html" title="zum Datenschutz">Datenschutz</li>
+</div>
+
+ </footer>
+ <!---------------------->
+</body>
+
+</html>

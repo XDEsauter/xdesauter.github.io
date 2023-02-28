@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="de">
+<html>
+ <head>
+ <title>Preisliste</title>
+ <meta charset="utf-8">
+ <meta name="description" content="Startseite">
+ <meta name="autor" content="Marius Sauter">
+ <link rel="stylesheet" href="Preisliste.css">
+ </head>
+ 
+<body>
+<!-----Header & Navigation-------->
+ <header>
+ <div class="logo">
+ <img src="logo.png" width="370" height="45">
+ </div>
+ <div class="Navi">
+  <ul>
+  <h2>
+  <li style="margin-left: 30px;"><a href="index.html" title="Zurück zur Startseite">Wilkommen</a>  </li>
+  <li style="margin-left: 30px;" ><a href="leistungen.html" title="Zu den Leistungen">Leistungen</a>  </li>
+  <li style="margin-left: 30px;"><a href="unser team.html" title="Zum Team">Unser Team</a>  </li>
+  <li style="margin-left: 30px;"><a href="berufsbild.html" title="Infos zum Beruf">Berufsbild</a>  </li>
+  <li style="margin-left: 30px;"><a href="kontakt.html" title="Zur Kontaktaufnahme">Kontakt</a>  </li>
+  </h2>
+  </ul>
+  </div>
+  
+ 
+  
+ </header>
+ <!-------Inhaltsbereich------>
+ <main>
+  <article>
+  <div class="Inhaltsbereich2">
+  <h1 style="color:#8080ff; ">Preise</h1> <br>
+ Der Preis richtet sich nach der Qualifikation der Behandler.<br>
+  Jede Behandlung richtet sich ca. auf 30-45 min.<br><br>
+ <b> 
+Heilpraktiker für Podologie: 39,00€</em><br><br>
+ Podologe(ohne Verordnung): 44,90€<br><br>
+ Angehender Podologe(ohne Verordnung): 42,10€<br><br>
+ Fußpfleger: 33€<br><br>
+ Massage: 33€
+ 
+ </b>
+
+
+
+ </div>
+ </article>
+ </main>
+ 
+  <aside>
+<div class="Inhaltsbereich1">
+ <img src="Preisliste.jpg" width="450px" height="650px">
+ </div>
+ 
+ </aside>
+<! ---------Footerbereich--------->
+ <footer>
+ <div class="footertext1">
+   <td> <tr> Weinstraße.73</tr>  <tr></tr> </td><br>
+   <td> <tr> 67434 Neustadt a.d.W</tr> </td><br>
+   <td> <tr> +49 6321 929877</tr> </td> <br> 
+   <td> <tr> paraxis@pdologie-prinz.de</tr> </td> <br>
+</div>
+
+<div class="Datenschutz">
+<a href="Datenschutz.html" title="zum Datenschutz">Datenschutz</li>
+</div>
+
+ </footer>
+ <!---------------------->
+</body>
+
+</html>

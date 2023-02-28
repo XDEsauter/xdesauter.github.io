@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="de">
+<html>
+ <head>
+ <title>Bianca Sauter</title>
+ <meta charset="utf-8">
+ <meta name="description" content="Startseite">
+ <meta name="autor" content="Marius Sauter">
+ <link rel="stylesheet" href="Mitarbeiterseite3.css">
+ </head>
+ 
+<body>
+<!-----Header & Navigation-------->
+ <header>
+ <div class="logo">
+ <img src="logo.png" width="370" height="45">
+ </div>
+ <div class="Navi">
+  <ul>
+  <h2>
+  <li style="margin-left: 30px;"><a href="index.html" title="Zurück zur Startseite">Wilkommen</a>  </li>
+  <li style="margin-left: 30px;" ><a href="leistungen.html" title="Zu den Leistungen">Leistungen</a>  </li>
+  <li style="margin-left: 30px;"><a href="unser team.html" title="Zum Team">Unser Team</a>  </li>
+  <li style="margin-left: 30px;"><a href="berufsbild.html" title="Infos zum Beruf">Berufsbild</a>  </li>
+  <li style="margin-left: 30px;"><a href="kontakt.html" title="Zur Kontaktaufnahme">Kontakt</a>  </li>
+  </h2>
+  </ul>
+  </div>
+  
+ 
+  
+ </header>
+ <!-------Inhaltsbereich------>
+ <main>
+  <article>
+ <div class="Inhaltsbereich1">
+ <img src="Mitarbeiter3.jpg" width="500px" height="800px">
+ </div>
+ </article>
+ </main>
+ 
+  <aside>
+<div class="Inhaltsbereich2">
+<br><br><br><br><br><br><br><br>
+ <b>Bianca Sauter:</b><br><br>
+ - seit 2010 Praxisorganisatorin und Ihre Ansprechpartnerin für viele Fragen<br>
+ - seit 2014 Sachkunde-Nachweis über die Aufbereitung von Medizinprodukte<br>
+
+ </div>
+ 
+ </aside>
+<! ---------Footerbereich--------->
+ <footer>
+ <div class="footertext1">
+   <td> <tr> Weinstraße.73</tr>  <tr></tr> </td><br>
+   <td> <tr> 67434 Neustadt a.d.W</tr> </td><br>
+   <td> <tr> +49 6321 929877</tr> </td> <br> 
+   <td> <tr> paraxis@pdologie-prinz.de</tr> </td> <br>
+</div>
+
+<div class="Datenschutz">
+<a href="Datenschutz.html" title="zum Datenschutz">Datenschutz</li>
+</div>
+
+ </footer>
+ <!---------------------->
+</body>
+
+</html>
